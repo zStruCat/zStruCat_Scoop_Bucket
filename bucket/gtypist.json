@@ -5,7 +5,7 @@
         "identifier": "GPL-3.0-or-later",
         "url": "https://www.gnu.org/licenses/gpl-3.0.html"
     },
-   "bin" : "gtypist.exe",
+    "bin" : "gtypist.exe",
     
     "homepage": "https://www.gnu.org/software/gtypist/",
     "url": "http://ftp.gnu.org/gnu/gtypist/w32_binaries/gtypist-2.9.5-w32.7z",
@@ -18,8 +18,8 @@
         "regex": "The latest stable release of GNU Typist is version ([\\d.]+)"
     },
     "autoupdate": {
-        "url" : "http://ftp.gnu.org/gnu/gtypist/w32_binaries/gtypist-${version}-w32.7z",
-        "extract_dir" : "gtypist-${version}-w32"
+        "url" : "http://ftp.gnu.org/gnu/gtypist/w32_binaries/gtypist-$version-w32.7z",
+        "extract_dir" : "gtypist-$version-w32"
     }
     
 

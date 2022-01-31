@@ -5,7 +5,7 @@
         "identifier": "GPL-3.0-or-later",
         "url": "https://www.gnu.org/licenses/gpl-3.0.html"
     },
-    "bin": "gtypist.exe",
+    "bin": [["gtypist.exe", "gtypist", "$dir/lessons/gtypist.typ"]],
     "homepage": "https://www.gnu.org/software/gtypist/",
     "url": "http://ftp.gnu.org/gnu/gtypist/w32_binaries/gtypist-2.9.5-w32.7z",
     "hash": "8f3a021833acc81ba9291062c91c956f88ebb4d9225b9a955cb8b60cd6cdb0d3",

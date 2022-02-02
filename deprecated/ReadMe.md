@@ -1,0 +1,1 @@
+This directory contain files that have been accepted by officials and other deprecated manifests.
